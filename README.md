@@ -1,1 +1,1 @@
-# BoostMRI
+# MRArt
