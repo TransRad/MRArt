@@ -3,7 +3,7 @@
 This repository contains MRArt code for the paper: 
 > Boudissa, S., Kanli, G., Perlo D. and Keunen O. 2024.
 > "ADDRESSING ARTEFACTS IN ANATOMICAL MR IMAGES: A K-SPACE-BASED APPROACH",  ..., ...,... , url (link coming soon).
-This paper was accepted to the 21st IEEE  International Symposium on Biomedical Imaging (ISBI24). You cna find the poster presented to the ISBI24 conference under *Poster_ISBI24_542.pdf*.
+This paper was accepted to the 21st IEEE  International Symposium on Biomedical Imaging (https://biomedicalimaging.org/2024/). You cna find the poster presented to the ISBI24 conference under *Poster_ISBI24_542.pdf*.
 
 ## Description
 We propose a library named **MRArt**, for MRI Artefacts, that simulates realistic primary artefacts by manipulating the k-space signal, using standard image processing techniques.
