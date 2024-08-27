@@ -45,6 +45,7 @@ Selma BOUDISSA, Georgia KANLI, Daniele PERLO, Thomas JAQUET and Olivier KEUNEN.
 
 ## Citation 
 If you find **MRArt** useful in your research, please use the following for citation.
+
 S. Boudissa, G. Kanli, D. Perlo, T. Jaquet and O. Keunen, "Addressing Artefacts in Anatomical MR Images: A k-space-Based Approach," 2024 IEEE International Symposium on Biomedical Imaging (ISBI), Athens, Greece, 2024, pp. 1-5, doi: 10.1109/ISBI56570.2024.10635199. 
 
 
