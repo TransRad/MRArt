@@ -43,5 +43,7 @@ Selma BOUDISSA, Georgia KANLI, Daniele PERLO, Thomas JAQUET and Olivier KEUNEN.
 
 ## Citation 
 If you find **MRArt** useful in your research, please use the following for citation.
-Boudissa, S., Kanli, G., Perlo D. and Keunen O., "ADDRESSING ARTEFACTS IN ANATOMICAL MR IMAGES: A K-SPACE-BASED APPROACH",2024 (will be completed soon)
+S. Boudissa, G. Kanli, D. Perlo, T. Jaquet and O. Keunen, "Addressing Artefacts in Anatomical MR Images: A k-space-Based Approach," 2024 IEEE International Symposium on Biomedical Imaging (ISBI), Athens, Greece, 2024, pp. 1-5, doi: 10.1109/ISBI56570.2024.10635199. keywords: {Training;Degradation;Deep learning;Three-dimensional displays;Magnetic resonance imaging;Biological system modeling;Brain modeling;magnetic resonance image;artefacts;image processing;k-space;deep learning},
+
+
 
