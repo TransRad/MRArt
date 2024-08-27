@@ -1,8 +1,10 @@
 # MRArt
 
 This repository contains MRArt code for the paper: 
-> Boudissa, S., Kanli, G., Perlo D. and Keunen O. 2024.
-> "ADDRESSING ARTEFACTS IN ANATOMICAL MR IMAGES: A K-SPACE-BASED APPROACH",  ..., ...,... , url (link coming soon).
+> S. Boudissa, G. Kanli, D. Perlo, T. Jaquet and O. Keunen.
+> "ADDRESSING ARTEFACTS IN ANATOMICAL MR IMAGES: A K-SPACE-BASED APPROACH", 2024 IEEE International Symposium on Biomedical Imaging (ISBI), Athens, Greece, 2024, pp. 1-5, doi: 10.1109/ISBI56570.2024.10635199. https://ieeexplore.ieee.org/document/10635199 
+
+
 
 This paper was accepted to the 21st IEEE  International Symposium on Biomedical Imaging . You can find the poster presented to the [ISBI24](https://biomedicalimaging.org/2024/) conference under [*Poster_ISBI24_542.pdf*](https://github.com/TransRad/MRArt/blob/main/Poster_ISBI24_542.pdf).
 
